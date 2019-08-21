@@ -12,11 +12,11 @@ import pandas as pd
 
 
 ########### Define your variables ######
-myheading = "Best Craft Beers in DC"
+myheading = "Breweries and Beers"
 mysubheading = "August 2019"
-tabtitle = 'python rocks'
+tabtitle = 'Beer, Beer, Beer'
 filename = 'beers.csv'
-sourceurl = 'https://www.beeradvocate.com/beer/top-rated/us/dc/'
+sourceurl = 'https://www.kaggle.com/nickhould/craft-cans/downloads/craft-cans.zip/1'
 githublink = 'https://github.com/austinlasseter/dash-table-example'
 
 ########### Set up the data
