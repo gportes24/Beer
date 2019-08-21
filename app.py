@@ -17,7 +17,7 @@ mysubheading = "August 2019"
 tabtitle = 'Beer, Beer, Beer'
 filename = 'beers.csv'
 sourceurl = 'https://www.kaggle.com/nickhould/craft-cans/downloads/craft-cans.zip/1'
-githublink = 'https://github.com/austinlasseter/dash-table-example'
+githublink = 'https://github.com/gportes24/Beer'
 
 ########### Set up the data
 df = pd.read_csv(filename)
